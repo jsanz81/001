@@ -5,11 +5,13 @@
     +lista
     +lista
 ***
-*cursiva*
-**negrita**
-***cursiva y negrita***
+*cursiva*  
+**negrita**  
+***cursiva y negrita***  
 
-> Cita
+> Cita  
+
+  
 
 [enlace en línea](http://www.com)
 
