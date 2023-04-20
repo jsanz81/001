@@ -13,7 +13,7 @@
 
   
 
-[enlace en línea](http://www.com)
+[hipervínculo](http://www.thebridgecom)
 
 ~~~
  #líneas de código
