@@ -19,8 +19,7 @@
 bloques
 ~~~
 
-<code>
- #líneas de código
- print("hello world")
-<code>
+ '#líneas de código'
+ 'print("hello world")'
+
 
