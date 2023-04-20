@@ -16,6 +16,11 @@
 [hipervínculo](http://www.thebridge.com)
 
 ~~~
+bloques
+~~~
+
+<code>
  #líneas de código
  print("hello world")
-~~~
+<code>
+
