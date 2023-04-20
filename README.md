@@ -23,3 +23,4 @@ bloques
   'print("hello world")'
 
 
+![Texto alternativo imagen](/ruta/a/la/imagen.jpg "Título alternativoimagen")
