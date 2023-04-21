@@ -13,7 +13,7 @@
 
   
 
-[hipervínculo](http://www.thebridge.com)
+[hipervínculo](http://www.google.com)
 
 ~~~
 bloques
@@ -23,4 +23,4 @@ bloques
   'print("hello world")'
 
 
-![Texto alternativo imagen](/ruta/a/la/imagen.jpg "Título alternativoimagen")
+![Texto alternativo imagen](https://sss.radiooasis.pe/imagen/apaisado/acdc-conoce-quienes-son-los-guitarristas-que-inspiraron-a-angus-young-bd675.jpg "Título alternativoimagen")
