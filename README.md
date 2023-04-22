@@ -2,7 +2,7 @@
  ### Encabezado 2
 ***
     1. :zap: lista
-    +:comupter: APRENDIENDO DATA SCIENCE
+    +:computer: APRENDIENDO DATA SCIENCE
     +lista
 ***
 *cursiva*  
@@ -10,3 +10,7 @@
 ***cursiva y negrita***  
 
 > Cita 
+
+
+💻 APRENDIENDO DATA SCIENCE
+⚡
