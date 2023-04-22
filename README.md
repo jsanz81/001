@@ -1,16 +1,8 @@
- ## Encabezado 1
- ### Encabezado 2
-***
-    1. :zap: lista
-    +:computer: APRENDIENDO DATA SCIENCE
-    +lista
-***
-*cursiva*  
-**negrita**  
-***cursiva y negrita***  
+ ## Welcome to my Github  
+  
+ ### 💻 APRENDIENDO DATA SCIENCE ⚡  
+ 
 
 > Cita 
 
-
-💻 APRENDIENDO DATA SCIENCE
-⚡
+***
