@@ -6,7 +6,7 @@
 
 -- SET datestyle = YMD;        -- Format de les dates any-mes-dia;
 
--- SET search_path TO erp;	-- Indiquem el path;
+-- SET search_path TO erp;	-- Indicar el path;
 ------------------------------------------------------------------------------------------------
 --
 -- Data tb_compay;

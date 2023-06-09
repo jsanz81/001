@@ -26,7 +26,7 @@
             ,cust_name VARCHAR(50) NOT NULL
             ,cust_cif VARCHAR(15) NOT NULL
             ,last_updated_by VARCHAR(20) NOT NULL DEFAULT "SYSTEM"
-            ,last_updated_fecha DATE NOT NULL
+            ,last_update_date DATE NOT NULL
 
             ,CONSTRAINT pk_cust_no PRIMARY KEY(cust_no)
         );
