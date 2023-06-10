@@ -29,8 +29,11 @@ La prueba debe desarrollarse con Python 3. Puedes utilizar todas las librerías 
 Apoyándote en uno o varios Jupyter Notebooks, realiza un análisis sobre los datos de la tabla orders contemplando los siguientes puntos:
 
 1. Análisis sencillo del dataset proporcionado variable a variable, obteniendo métricas resumen o representaciones gráficas de cada una de ellas. ¿En base a este análisis, crees que alguna variable debería ser descartada?
+
 2. Realiza un scatter plot en el que se compare el volumen financiado en un crédito con el número de cuotas elegido (number_instalments). ¿Qué se observa?
+
 3. ¿Cómo ha evolucionado el número de créditos concedidos a lo largo del año 2018? ¿Y el volumen prestado?
+
 4. Trata de obtener algún insight interesante del dataset y realiza una explicación detallada, apoyándote de las métricas y las representaciones gráficas que sean necesarias.
 
 
