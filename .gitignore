@@ -3,3 +3,5 @@ cast.csv
 creds.py
 
 *.txt
+
+*Tableau*.pdf
